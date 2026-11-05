@@ -64,7 +64,7 @@ int main(){
     else{
         printf("FAIL,try again");
     }
-    in subject 1
+    in subject 
 
     return 0;
 }
