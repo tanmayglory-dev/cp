@@ -64,7 +64,5 @@ int main(){
     else{
         printf("FAIL,try again");
     }
-    in subjec
-
     return 0;
 }
